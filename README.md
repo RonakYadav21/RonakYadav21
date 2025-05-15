@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ronak Yadav</h1>
 <h3 align="center">A passionate Java Developer and Tech Explorer</h3>
 
