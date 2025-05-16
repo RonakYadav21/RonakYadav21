@@ -104,17 +104,6 @@
 ---
 
 
-### ☕ Fun Developer Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-<!--### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronakyadav21&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RonakYadav21&theme=tokyonight" width="48%" />
-</p>
--->
----
 ### 📊 GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonakYadav21&theme=tokyo-night)](https://github.com/RonakYadav21)
