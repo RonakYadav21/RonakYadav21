@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
       </p>
       <p>🧾 A team project launched at IIPS to manage student records, roles for admin/TPO/students, attendance, and placement tracking.</p>
-      <p><a href="https://github.com/RonakYadav21/student-management-system" target="_blank">🔗 GitHub Repo</a></p>
+      <p><a href="https://github.com/RonakYadav21/Student-Information-System" target="_blank">🔗 GitHub Repo</a></p>
     </td>
   </tr>
 
