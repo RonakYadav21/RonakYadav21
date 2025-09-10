@@ -24,6 +24,36 @@
 <table>
   <tr>
     <td width="50%">
+      <h4>🎓 Student Management System</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-%23007ACC?style=flat-square&logo=none&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      </p>
+      <p>🧾 A team project launched at IIPS to manage student records, roles for admin/TPO/students, attendance, and placement tracking.</p>
+      <p><a href="[https://github.com/RonakYadav21/student-management-system](https://github.com/RonakYadav21/Student-Information-System)">🔗 GitHub Repo</a></p>
+    </td>
+</tr>
+
+<tr>
+    <td width="50%">
+      <h4>💼 HireHub – Placement Management System</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-%23009133?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-%23007ACC?style=flat-square&logo=none&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-%2300BADB?style=flat-square&logo=swagger&logoColor=white"/>
+      </p>
+      <p>🧾 A microservices-based placement management system with role-based authentication for students, TPO, admin, and company integrations.</p>
+      <p><a href="[https://github.com/your_username/hirehub](https://github.com/RonakYadav21/HireHub)">🔗 GitHub Repo</a></p>
+    </td>
+</tr>
+
+  <tr>
+    <td width="50%">
       <h4>🛒 E-Commerce Website</h4>
       <p>
         <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
@@ -32,7 +62,7 @@
         <img src="https://img.shields.io/badge/Thymeleaf-%2300050f?style=flat-square&logo=thymeleaf&logoColor=white"/>
       </p>
       <p>🧾 A full-featured shopping platform with login/signup, cart, admin dashboard, and product filtering.</p>
-      <p><a href="https://github.com/your_username/ecommerce-site">🔗 GitHub Repo</a></p>
+      <p><a href="[https://github.com/RonakYadav21/ecommerce-site](https://github.com/RonakYadav21/Shopping_cart)">🔗 GitHub Repo</a></p>
     </td>
   </tr>
 
@@ -45,22 +75,11 @@
         <img src="https://img.shields.io/badge/REST_API-%23000000?style=flat-square&logo=postman&logoColor=white"/>
       </p>
       <p>📝 A secure note-tracking app with JWT authentication and REST APIs using Spring Security.</p>
-      <p><a href="https://github.com/your_username/enote-tracker">🔗 GitHub Repo</a></p>
+      <p><a href="[https://github.com/your_username/enote-tracker](https://github.com/RonakYadav21/enotes_app)">🔗 GitHub Repo</a></p>
     </td>
   </tr>
 
-  <tr>
-    <td width="50%">
-      <h4>🧠 DSA Java Practice</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Algorithms-%23FF6347?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-      </p>
-      <p>🔢 200+ Java DSA problems solved with explanations and time complexity analysis.</p>
-      <p><a href="https://github.com/your_username/dsa-java">🔗 GitHub Repo</a></p>
-    </td>
-  </tr>
+ 
 </table>
 
 
