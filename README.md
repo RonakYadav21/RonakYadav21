@@ -33,11 +33,11 @@
         <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
       </p>
       <p>🧾 A team project launched at IIPS to manage student records, roles for admin/TPO/students, attendance, and placement tracking.</p>
-      <p><a href="[https://github.com/RonakYadav21/student-management-system](https://github.com/RonakYadav21/Student-Information-System)">🔗 GitHub Repo</a></p>
+      <p><a href="https://github.com/RonakYadav21/student-management-system" target="_blank">🔗 GitHub Repo</a></p>
     </td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
     <td width="50%">
       <h4>💼 HireHub – Placement Management System</h4>
       <p>
@@ -48,9 +48,9 @@
         <img src="https://img.shields.io/badge/Swagger-%2300BADB?style=flat-square&logo=swagger&logoColor=white"/>
       </p>
       <p>🧾 A microservices-based placement management system with role-based authentication for students, TPO, admin, and company integrations.</p>
-      <p><a href="[https://github.com/your_username/hirehub](https://github.com/RonakYadav21/HireHub)">🔗 GitHub Repo</a></p>
+      <p><a href="https://github.com/RonakYadav21/HireHub" target="_blank">🔗 GitHub Repo</a></p>
     </td>
-</tr>
+  </tr>
 
   <tr>
     <td width="50%">
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/Thymeleaf-%2300050f?style=flat-square&logo=thymeleaf&logoColor=white"/>
       </p>
       <p>🧾 A full-featured shopping platform with login/signup, cart, admin dashboard, and product filtering.</p>
-      <p><a href="[https://github.com/RonakYadav21/ecommerce-site](https://github.com/RonakYadav21/Shopping_cart)">🔗 GitHub Repo</a></p>
+      <p><a href="https://github.com/RonakYadav21/Shopping_cart" target="_blank">🔗 GitHub Repo</a></p>
     </td>
   </tr>
 
@@ -75,12 +75,11 @@
         <img src="https://img.shields.io/badge/REST_API-%23000000?style=flat-square&logo=postman&logoColor=white"/>
       </p>
       <p>📝 A secure note-tracking app with JWT authentication and REST APIs using Spring Security.</p>
-      <p><a href="[https://github.com/your_username/enote-tracker](https://github.com/RonakYadav21/enotes_app)">🔗 GitHub Repo</a></p>
+      <p><a href="https://github.com/RonakYadav21/enotes_app" target="_blank">🔗 GitHub Repo</a></p>
     </td>
   </tr>
-
- 
 </table>
+
 
 
 ### 🚀 My Dev Toolkit
