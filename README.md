@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Open Source and Backend Projects**
 - 💬 Ask me about **Java, Spring Boot, Git, DSA**
 - 📫 How to reach me: **ronakyadav9977@gmail.com**
-- 📄 Know about my experiences: [Resume](C:\Users\ronak\Downloads\Ronak_Yadav_Resume (1).docx)
+
 
 ---
 
