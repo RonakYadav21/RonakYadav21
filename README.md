@@ -124,13 +124,13 @@
 <!--
 ### 📊 GitHub Activity
 
--->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonakYadav21&theme=tokyo-night)](https://github.com/RonakYadav21)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RonakYadav21&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RonakYadav21&theme=tokyonight" width="48%"/>
 </p>
+-->
 ### 🧠 Top Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
