@@ -177,7 +177,7 @@
 
 <p align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/yadav_ronak21/)">
+<a href="https://leetcode.com/u/yadav_ronak21">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
