@@ -37,7 +37,6 @@
 <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Resilience4j-000000?style=for-the-badge&logo=java&logoColor=white"/>
 
 <br>
 
@@ -49,8 +48,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -139,29 +136,6 @@
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🛒 E-Commerce Website</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-00050f?style=flat-square&logo=thymeleaf&logoColor=white"/>
-</p>
-
-<p>
-🛍️ Full-stack shopping platform featuring authentication, product management, cart functionality, filtering and an admin dashboard.
-</p>
-
-<p align="center">
-<a href="https://github.com/RonakYadav21/Shopping_cart">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
 </tr>
 </table>
 
@@ -206,10 +180,6 @@
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
