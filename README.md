@@ -2,10 +2,13 @@
 <h3 align="center">A passionate Java Developer and Tech Explorer</h3>
 
 
-- 🔭 I’m currently working on **Java/Spring Boot Projects**
-- 🌱 I’m currently learning **DSA, Advanced Java, System Design**
-- 👯 I’m looking to collaborate on **Open Source and Backend Projects**
-- 💬 Ask me about **Java, Spring Boot, Git, DSA**
+- 👋 Hey, I'm a Backend Developer
+
+🚀 Building with **Java & Spring Boot**
+🧩 Exploring **Microservices & System Design**
+🧠 Solving problems with **DSA**
+⚡ Turning ideas into **scalable backend systems**
+🤝 Always open to **learning, building & collaborating**
 - 📫 How to reach me: **ronakyadav9977@gmail.com**
 
 
