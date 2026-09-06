@@ -15,10 +15,20 @@
 ---
 
 ### 🛠️ Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge\&logo=openapiinitiative\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -70,33 +80,11 @@
     <p><a href="YOUR_ID_CARD_PROJECT_GITHUB_LINK" target="_blank">🔗 GitHub Repo</a></p>
   </td>
 
-  <td width="50%">
-    <h4>🛒 E-Commerce Website</h4>
-    <p>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Thymeleaf-%2300050f?style=flat-square&logo=thymeleaf&logoColor=white"/>
-    </p>
-    <p>🧾 A full-featured shopping platform with login/signup, cart, admin dashboard, and product filtering.</p>
-    <p><a href="https://github.com/RonakYadav21/Shopping_cart" target="_blank">🔗 GitHub Repo</a></p>
-  </td>
 </tr>
 
   
 
-  <tr>
-    <td width="50%">
-      <h4>📒 eNote Tracker</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Security-%236DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-%23000000?style=flat-square&logo=postman&logoColor=white"/>
-      </p>
-      <p>📝 A secure note-tracking app with JWT authentication and REST APIs using Spring Security.</p>
-      <p><a href="https://github.com/RonakYadav21/enotes_app" target="_blank">🔗 GitHub Repo</a></p>
-    </td>
-  </tr>
+
 </table>
 
 
